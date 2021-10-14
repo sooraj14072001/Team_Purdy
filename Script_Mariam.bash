@@ -2,7 +2,7 @@
 Name="mariam moahmed"
 Email=mariamdarwish880@gmail.com
 slack=mariamdarwish0
-biostack=transcriptome 
+biostack="transcriptomics/machinelearning and datascince" 
 
 for i in  {Name,Email,slack,biostack}
 
