@@ -31,7 +31,6 @@ Our Team is a diverse community of students, researchers and professionals from 
 
 
 
-
 ## Contributors
 | Names | Picture  | Programming Language  |  Description  |
 | ------- | --- | --- | --- |
