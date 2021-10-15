@@ -5,7 +5,7 @@ HackBio Internship provides a platform for young Life Science Research Aspirants
 <h2 align="center"> 👨‍🔬💻 TEAM PURDY 💻👩‍🔬 </h2>
 <h3 align="center"><img src = "https://user-images.githubusercontent.com/88287926/137456688-efd9d2d8-3435-49b2-9bad-0237fe1a7628.jpeg" width="700" height="400"></h3>
 Our Team is named after Jean Purdy to honour her hardwork and dedication in the Scientific Revolution of Fertility Treatments.
-Jean Purdy was a British Nurse and the first person to recognise and study the early Human Embryo Blastocyte formation, which had a key role in the development of In vitro Fertilization treatment (IVF).
+Jean Purdy was a British Nurse and the first person to recognise and study the early Human Embryo Blastocyte formation, which had a key role in the development of In vitro Fertilization treatment (IVF).Clearly Purdy was integral to IVF, but even today her name is rarely mentioned
 Our Team is a diverse community of students, researchers and professionals from all over the globe working together to hone our skills in Bioinformatics and Computational biology.
 
 ## The Task - Work Flow
@@ -37,4 +37,6 @@ Our Team is a diverse community of students, researchers and professionals from 
 | <h3 align="center"> Sooraj Shivakumar  </h3> | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> | <h3 align="center">JAVA </h3> |  https://in.linkedin.com/in/sooraj-s-71756510a  | 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Negar Khalili  </h3> | <img src="https://i.ibb.co/kM4g1XH/IMG-2650.jpg"  width="200" height="250"> | <h3 align="center">R </h3> |  https://www.linkedin.com/in/negarkhalili/  | 
-
+| ------- | --- | --- | --- |
+| <h3 align="center"> Romy Roy  </h3> | <img src="![IMG20200209155530](https://user-images.githubusercontent.com/92309828/137475901-0e88b1c2-f926-4e4a-8485-4b1d253eafde.jpg)
+"  width="200" height="250"> | <h3 align="center">R </h3> |  https://www.linkedin.com/in/romy-roy-75075a151/  | 
