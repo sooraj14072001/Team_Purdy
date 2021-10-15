@@ -33,7 +33,7 @@ Our Team is a diverse community of students, researchers and professionals from 
 
 
 ## Contributors
-| Names | Description  | Programming Language  |  Picture  |
+| Names | Picture  | Programming Language  |  Description  |
 | ------- | --- | --- | --- |
-| Sooraj Shivakumar| | Java | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> |
+| <h3 align="center"> Sooraj Shivakumar  </h3> | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> | <h3 align="center">JAVA </h3> |  https://in.linkedin.com/in/sooraj-s-71756510a  | 
 
