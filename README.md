@@ -40,3 +40,4 @@ Our Team is a diverse community of students, researchers and professionals from 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Romy Roy  </h3> | <img src="https://user-images.githubusercontent.com/92309828/137475901-0e88b1c2-f926-4e4a-8485-4b1d253eafde.jpg"  width="200" height="250"> | <h3 align="center">Python </h3> |  https://www.linkedin.com/in/romy-roy-75075a151/  | 
 | ------- | --- | --- | --- |
+| <h3 align="center"> Mariam darwish  </h3> | <img src="https://avatars.githubusercontent.com/u/92543671?v=4"  width="200" height="250"> | <h3 align="center">Bash </h3> |  https://www.linkedin.com/in/mariam-darwish-ba51211aa/ | 
