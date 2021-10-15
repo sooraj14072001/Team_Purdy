@@ -35,4 +35,6 @@ Our Team is a diverse community of students, researchers and professionals from 
 | Names | Picture  | Programming Language  |  Description  |
 | ------- | --- | --- | --- |
 | <h3 align="center"> Sooraj Shivakumar  </h3> | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> | <h3 align="center">JAVA </h3> |  https://in.linkedin.com/in/sooraj-s-71756510a  | 
+| ------- | --- | --- | --- |
+| <h3 align="center"> Negar Khalili  </h3> | <img src="https://i.ibb.co/qpRqqGC/Profile2.jpg"  width="200" height="250"> | <h3 align="center">R </h3> |  https://www.linkedin.com/in/negarkhalili/  | 
 
