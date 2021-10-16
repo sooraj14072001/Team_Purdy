@@ -1,6 +1,6 @@
 #!/bin/bash
 REPO = https://github.com/sooraj14072001/Team_Purdy
-OUTPUT_FILE = 
+OUTPUT_FILE = TeamPurdy.csv
 
 bash Script_Preonath.bash > Purdy_team.csv
 bash Script_Mariam.bash >>Purdy_team.csv
