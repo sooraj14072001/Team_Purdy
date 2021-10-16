@@ -42,4 +42,7 @@ Our Team is a diverse community of students, researchers and professionals from 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Mariam darwish  </h3> | <img src="https://avatars.githubusercontent.com/u/92543671?v=4"  width="200" height="250"> | <h3 align="center">Bash </h3> |  https://www.linkedin.com/in/mariam-darwish-ba51211aa/ | 
 | ------- | --- | --- | --- |
-| <h3 align="center"> Tanvironnessa Hapsha  </h3> |  <img src= "https://user-images.githubusercontent.com/92299571/137523359-08f4dfab-a920-4f6f-b2c3-bd6bedea02d9.jpg" width="200" height="250"> | <h3 align="center">Python </h3> |  https://www.linkedin.com/in/tanvironnessa-hapsha-5373b3223/ | 
+| <h3 align="center"> Tanvironnessa Hapsha  </h3> |  <img src= "https://user-images.githubusercontent.com/92299571/137523359-08f4dfab-a920-4f6f-b2c3-bd6bedea02d9.jpg" width="200" height="250"> | <h3 align="center">C++ </h3> |  https://www.linkedin.com/in/tanvironnessa-hapsha-5373b3223/ | 
+| ------- | --- | --- | --- |
+| <h3 align="center"> Preonath Chondrow  </h3> |  <img src="https://user-images.githubusercontent.com/92299571/137576207-4de40631-99cf-459f-b60d-4f350ed2b489.png"
+  width="200" height="250"> | <h3 align="center">Bash </h3> |  https://www.linkedin.com/in/preonath-shuvo-26aa1416b | 
