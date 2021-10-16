@@ -19,6 +19,14 @@ Our Team is a diverse community of students, researchers and professionals from 
 6. Collaboratively as a team, develop a bash script that clones the git repo, and generates a CSV file from all the outputs of your team's scripts
 7. Submit your team's GitHub link to only the bash script.
 
+## Approach for Bash Scripting 
+1. First, We used command line “nano” that create new file and we named “teampurdy.sh” 
+2. Then we used command line “bash” for running bash script.
+3. Then used command line “RScript” to run Scripts .
+4. used “python3” command line for python scripts and javac for java scripts
+5. And used “>>” for put all outputs of each script in same file that we named “teampurdy.csv than we bash the mean file that contain all scripts and command lines
+6. At last, we uploaded the completed Bash Script to github that generates CSV file without any error.
+
 ## CSV Output Template 
 | Names | E-mail  | Slack  |  Biostack  |
 | ------- | --- | --- | --- |
