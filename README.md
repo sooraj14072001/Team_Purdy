@@ -23,9 +23,9 @@ Our Team is a diverse community of students, researchers and professionals from 
 1. First, We used command line “nano” that create new file and we named “teampurdy.sh” 
 2. Then we used command line “bash” for running bash script.
 3. Then used command line “RScript” to run Scripts .
-4. used “python3” command line for python scripts and javac for java scripts
-5. And used “>>” for put all outputs of each script in same file that we named “teampurdy.csv than we bash the mean file that contain all scripts and command lines
-6. At last, we uploaded the completed Bash Script to github that generates CSV file without any error.
+4. Then used “python3” command line for python scripts and javac for java scripts
+5. And “>>” was used to integrate all the outputs of individual scripts in same file that we named “teampurdy.csv than the mean file was bash scripted that contain all scripts and command lines to generate the final CSV File.
+6. At last, we uploaded the completed Bash Script to GitHub that generates CSV file without any error.
 
 ## CSV Output Template 
 | Names | E-mail  | Slack  |  Biostack  |
