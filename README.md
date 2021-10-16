@@ -24,7 +24,7 @@ Our Team is a diverse community of students, researchers and professionals from 
 2. Then command line “bash” was used for running bash script.
 3. Then command line “RScript” to run Scripts .
 4. Then command line “python3” for python scripts and javac for java scripts.
-5. And “>>” was used to integrate all the outputs of individual scripts in same file that we named “teampurdy.csv".
+5. And “>>” was used to integrate all the outputs of individual scripts in same file that was named “teampurdy.csv".
 6. Then the Main file was bash scripted that contain all scripts and command lines to generate the final CSV File.
 7. At last, we uploaded the completed Bash Script to GitHub that generates CSV file without any error.
 
