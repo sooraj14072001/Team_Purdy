@@ -25,6 +25,7 @@ Our Team is a diverse community of students, researchers and professionals from 
 
 ## CSV Output Template 
 | Names | E-mail  | Slack  |  Biostack  |
+| ------- | --- | --- | --- |
 | XXXXXX | XXXX@RRR.Com | XXX | XXX |
 | YYYYYY | YYYY@RRR.Com | YYY | YYY |
 | ZZZZZZ | ZZZZ@RRR.Com | ZZZ | ZZZ |
