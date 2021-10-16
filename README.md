@@ -46,5 +46,5 @@ Our Team is a diverse community of students, researchers and professionals from 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Preonath Chondrow  </h3> | <img src= "https://user-images.githubusercontent.com/92299571/137576207-4de40631-99cf-459f-b60d-4f350ed2b489.png"   width="200" height="250"> | <h3 align="center">Bash </h3> | https://www.linkedin.com/in/preonath-shuvo-26aa1416b  | 
 | ------- | --- | --- | --- |
-| <h3 align="center"> Janefrances Okeke </h3> | <img src= ""   width="200" height="250"> | <h3 align="center">Bash </h3> | https://in.linkedin.com/in/jane-frances-547416223  | 
+| <h3 align="center"> Janefrances Okeke </h3> | <img src= "https://files.slack.com/files-pri/T02H8KM7TE0-F02HXFYKZAR/img_20190805_143558_0.jpg" > | <h3 align="center"> Python </h3> | Genomics and Drug development | https://in.linkedin.com/in/jane-frances-547416223  | 
 | ------- | --- | --- | --- |
