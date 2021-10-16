@@ -36,9 +36,9 @@ Our Team is a diverse community of students, researchers and professionals from 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Sooraj Shivakumar  </h3> | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> | <h3 align="center">JAVA </h3> |  https://in.linkedin.com/in/sooraj-s-71756510a  | 
 | ------- | --- | --- | --- |
-| <h3 align="center"> Negar Khalili  </h3> | <img src="https://i.ibb.co/kM4g1XH/IMG-2650.jpg"  width="200" height="250"> | <h3 align="center">R </h3> |  https://www.linkedin.com/in/negarkhalili/  | 
+| <h3 align="center"> Negar Khalili  </h3> | <img src="https://i.ibb.co/kM4g1XH/IMG-2650.jpg"  width="200" height="250"> | <h3 align="center">R </h3> | Bio-Stack : Genomics  https://www.linkedin.com/in/negarkhalili/  | 
 | ------- | --- | --- | --- |
-| <h3 align="center"> Romy Roy  </h3> | <img src="https://user-images.githubusercontent.com/92309828/137482181-dfc4b76e-d901-4940-acf9-b0ff29ded3ca.jpg"  width="200" height="250"> | <h3 align="center">Python </h3> | Bio-Stack : Genomics, Drug discovery  https://www.linkedin.com/in/romy-roy-75075a151/  | 
+| <h3 align="center"> Romy Roy  </h3> | <img src="https://user-images.githubusercontent.com/92309828/137482181-dfc4b76e-d901-4940-acf9-b0ff29ded3ca.jpg"  width="200" height="250"> | <h3 align="center">Python </h3> | Bio-Stack: Genomics, Drug discovery  https://www.linkedin.com/in/romy-roy-75075a151/  | 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Mariam darwish  </h3> | <img src="https://avatars.githubusercontent.com/u/92543671?v=4"  width="200" height="250"> | <h3 align="center">Bash </h3> |  https://www.linkedin.com/in/mariam-darwish-ba51211aa/ | 
 | ------- | --- | --- | --- |
