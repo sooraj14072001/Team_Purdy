@@ -19,22 +19,20 @@ Our Team is a diverse community of students, researchers and professionals from 
 6. Collaboratively as a team, develop a bash script that clones the git repo, and generates a CSV file from all the outputs of your team's scripts
 7. Submit your team's GitHub link to only the bash script.
 
-## Dependencies
-
-
-
-
-
 ## How to run the code
 
 
 
-
+## CSV Output Template 
+| Names | E-mail  | Slack  |  Biostack  |
+| XXXXXX | XXXX@RRR.Com | XXX | XXX |
+| YYYYYY | YYYY@RRR.Com | YYY | YYY |
+| ZZZZZZ | ZZZZ@RRR.Com | ZZZ | ZZZ |
 
 ## Contributors
 | Names | Picture  | Programming Language  |  Description  |
 | ------- | --- | --- | --- |
-| <h3 align="center"> Sooraj Shivakumar  </h3> | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> | <h3 align="center">JAVA </h3> |  https://in.linkedin.com/in/sooraj-s-71756510a  | 
+| <h3 align="center"> Sooraj Shivakumar  </h3> | <img src="https://user-images.githubusercontent.com/88287926/137459720-8031c4ef-9eb7-4484-8892-214049ab76d2.jpg"  width="200" height="250"> | <h3 align="center">JAVA </h3> | Biostack : Genomics/Microbiology    https://in.linkedin.com/in/sooraj-s-71756510a  | 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Negar Khalili  </h3> | <img src="https://i.ibb.co/kM4g1XH/IMG-2650.jpg"  width="200" height="250"> | <h3 align="center">R </h3> | Bio-Stack : Genomics  https://www.linkedin.com/in/negarkhalili/  | 
 | ------- | --- | --- | --- |
@@ -46,5 +44,5 @@ Our Team is a diverse community of students, researchers and professionals from 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Preonath Chondrow  </h3> | <img src= "https://user-images.githubusercontent.com/92299571/137576207-4de40631-99cf-459f-b60d-4f350ed2b489.png"   width="200" height="250"> | <h3 align="center">Bash </h3> | https://www.linkedin.com/in/preonath-shuvo-26aa1416b  | 
 | ------- | --- | --- | --- |
-| <h3 align="center"> Janefrances Okeke </h3> | <img src= "https://files.slack.com/files-pri/T02H8KM7TE0-F02HXFYKZAR/img_20190805_143558_0.jpg" > | <h3 align="center"> Python </h3> | Genomics and Drug development https://in.linkedin.com/in/jane-frances-547416223  | 
+| <h3 align="center"> Janefrances Okeke </h3> | <img src= ""   width="200" height="250"> | <h3 align="center">Bash </h3> | https://in.linkedin.com/in/jane-frances-547416223  | 
 | ------- | --- | --- | --- |
