@@ -19,14 +19,6 @@ Our Team is a diverse community of students, researchers and professionals from 
 6. Collaboratively as a team, develop a bash script that clones the git repo, and generates a CSV file from all the outputs of your team's scripts
 7. Submit your team's GitHub link to only the bash script.
 
-## How to run the code
-1. 
-2.
-3.
-4.
-5.
-
-
 ## CSV Output Template 
 | Names | E-mail  | Slack  |  Biostack  |
 | ------- | --- | --- | --- |
