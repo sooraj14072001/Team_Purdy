@@ -1,3 +1,3 @@
-Details = " Romy Roy, romyroyz@gmail.com, @Romy_Roy,Genomics/Drugdiscovery "
+Details = " Romy Roy, romyroyz@gmail.com, @Romy,Genomics/Drugdiscovery "
 
 print(Details)
